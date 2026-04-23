@@ -1,0 +1,16 @@
+Colors Code Used (HEX):-
+
+Dark Yellow:	#FFD200
+Light Yellow:	#028900
+Low Fat:	#CDA900
+Regular Fat:	#648949
+Dark Green:	#028900
+
+Medium Outlet Size :	#73B761
+Low Outlet Size :	#568949
+High Outlet Size :	#FFD200
+
+Outlet Location:
+T3: #CDA900
+T2: #CDA900
+T1: #ACDA6F
