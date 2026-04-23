@@ -4,7 +4,7 @@
 This project provides a deep-dive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. Following a formal business requirement process, I developed an interactive Power BI dashboard to track $1.20M in total sales, identifying key growth drivers across various outlet sizes, locations, and product categories.
 
 ## 🖼️ Dashboard Preview
-![Blinkit Dashboard Summary](05 Blinkit_Dashboard_Summary.png)
+![Blinkit Dashboard Summary](05%20Blinkit_Dashboard_Summary.png)
 
 ## 🎯 Business Requirements & KPIs
 Guided by the formal requirements outlined in `Blinkit_Business_Requirements.pptx`, the dashboard tracks the following primary metrics:
