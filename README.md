@@ -38,7 +38,7 @@ Guided by the formal requirements outlined in `Blinkit_Business_Requirements.ppt
 2.  **SQL Engineering:** Used SQL to standardize the `Item_Fat_Content` field and performed exploratory data analysis (EDA).
 3.  **Data Modeling:** Built a relationship-based model (Star Schema) to ensure high-performance filtering.
 4.  **DAX Development:** Created custom measures for Average Rating, Sales Distribution, and Tier-based performance.
-5.  **Validation:** Cross-referenced all Power BI visual totals with results from `Blinkit_SQL_Validation.sql` to ensure 100% data accuracy.
+5.  **Validation:** Cross-referenced all Power BI visual totals with results from `Blinkit_SQL_Validation.sql` to ensure 100% data accuracy
 
 ---
 **Developed by:** Parag Taide  
